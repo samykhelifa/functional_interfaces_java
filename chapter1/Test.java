@@ -1,5 +1,5 @@
 
-public interface I2
+ interface I2
 {
     final String s = "I2";
     static void method1() 
@@ -21,7 +21,7 @@ class C2 implements I2
 
 class C3 implements I2 {}
 
-class Test
+ public class Test
 {
     public static void main(String[] args)
     {
