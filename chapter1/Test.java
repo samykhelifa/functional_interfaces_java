@@ -15,7 +15,7 @@ interface PetMatcher
 
 
 
-public class PlayfulPets 
+public class Test 
 {
     private static void matchPet(String criteria, 
                                  PetMatcher matcher, Pet pet)
